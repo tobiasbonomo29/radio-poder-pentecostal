@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Configuración por defecto: solo HTTPS -->
+    <base-config cleartextTrafficPermitted="false" />
+
+    <!-- Excepción para el dominio del stream de radio -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">69.61.116.28</domain>
+    </domain-config>
+</network-security-config>
+

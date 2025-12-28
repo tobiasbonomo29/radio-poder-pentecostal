@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Radio Poder Pentecostal</string>
+
+    <!-- Notificaciones -->
+    <string name="notification_channel_name">Reproducción de Radio</string>
+    <string name="notification_channel_description">Controles de reproducción de Radio Poder Pentecostal</string>
+    <string name="notification_title">Radio Poder Pentecostal</string>
+    <string name="notification_playing">Reproduciendo</string>
+    <string name="notification_paused">En pausa</string>
+
+    <!-- Controles -->
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausar</string>
+    <string name="volume_up">Subir volumen</string>
+    <string name="volume_down">Bajar volumen</string>
+
+    <!-- Redes sociales -->
+    <string name="youtube">YouTube</string>
+    <string name="whatsapp">WhatsApp</string>
+
+    <!-- Estados -->
+    <string name="loading">Cargando...</string>
+    <string name="buffering">Conectando...</string>
+    <string name="error_connection">Error de conexión. Reintentando...</string>
+    <string name="no_internet">Sin conexión a internet</string>
+    <string name="reconnecting">Reconectando...</string>
+</resources>
+
